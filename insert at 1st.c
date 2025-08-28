@@ -2,7 +2,7 @@
 
 int main() {
     int arr[10] = {10, 20, 30, 40, 50};
-    int i, n = 5, elem = 99;
+    int i, n = 5, elem = 67;
     
     for(i = n; i > 0; i--) {
         arr[i] = arr[i - 1];
