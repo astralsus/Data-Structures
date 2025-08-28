@@ -3,7 +3,7 @@
 int main() {
     int arr[5] = {10, 20, 30, 40, 50};
     int pos = 2;
-    int newl = 99;
+    int newl = 12;
 
     if(pos >= 0 && pos < 5) {
         arr[pos] = newl;
